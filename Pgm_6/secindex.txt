@@ -1,0 +1,3 @@
+anushka|22|1
+bhavesh|23|2
+sanjana|21|0
